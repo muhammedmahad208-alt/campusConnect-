@@ -1,8 +1,8 @@
-o	Project description
-o	Features
-o	Technologies used
-o	Setup instructions
+this is about a very good website 
+p
 
+our features are also very good and you can do everythingt 
 
+we use html css and java script
 
-this is updated red me fir users 
+1 open and use 
