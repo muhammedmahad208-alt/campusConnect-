@@ -4,13 +4,13 @@ body {
   padding: 0;
   background-color: #f4f4f9;
   color: #333;
-  line-height: 1.6;
+ 
 }
 
 header {
   background: #004080;
   color: white;
-  padding: 1rem 2rem;
+
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -52,3 +52,5 @@ footer {
   color: #777;
   font-size: 0.9rem;
 }
+
+
